@@ -1,6 +1,6 @@
 # UAS-GUI-NETBEANS2
 
-## Scheme
+## Schema
 ```sql
 CREATE DATABASE farhan_store;
 USE farhan_store;
